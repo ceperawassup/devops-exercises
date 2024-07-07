@@ -49,7 +49,7 @@ Disclaimer: developed by repository owner
 
 ## Linux Exercises
 
-### Basics
+### ~~Basics~~
 
 |Name|Topic|Objective & Instructions|Solution|Comments|
 |--------|--------|------|----|----|
